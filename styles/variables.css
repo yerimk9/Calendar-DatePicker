@@ -1,6 +1,7 @@
 :root {
   --calendar-size: 300px;
-  --calendar-bg: #fff;
+  --calendar-bg1: #fff;
+  --calendar-bg2: #c5e1c5;
   --calendar-nav-bg: #44c379;
   --calendar-nav-fz: #fff;
   --title-color: #db5b33;

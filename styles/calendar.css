@@ -4,7 +4,7 @@
   margin: 40px auto;
   box-shadow: 0px 0px 10px #ccc;
   border-radius: 8px;
-  background-color: var(--calendar-bg);
+  background-color: var(--calendar-bg1);
 }
 
 .calendar-nav {
@@ -71,7 +71,7 @@
 .clicked {
   border-radius: calc(var(--calendar-size) / 7 / 2);
   background-color: var(--calendar-nav-bg);
-  color: var(--calendar-bg);
+  color: #fff;
 }
 
 .today {
