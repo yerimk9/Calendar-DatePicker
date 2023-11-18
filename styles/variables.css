@@ -1,0 +1,10 @@
+:root {
+  --calendar-size: 300px;
+  --calendar-bg: #fff;
+  --calendar-nav-bg: #44c379;
+  --calendar-nav-fz: #fff;
+  --title-color: #db5b33;
+  --title-fw: 300;
+  --text-color1: #ccc;
+  --text-point-color1: #f00;
+}

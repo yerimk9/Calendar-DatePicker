@@ -1,0 +1,21 @@
+.datepicker {
+  display: none;
+  width: var(--calendar-size);
+  height: calc(var(--calendar-size) * 9 / 7);
+  margin: 40px auto;
+  box-shadow: 0px 0px 10px #ccc;
+  border-radius: 8px;
+  background-color: var(--calendar-bg);
+}
+
+input {
+  width: calc(var(--calendar-size) / 1.5);
+  height: calc(var(--calendar-size) / 10);
+  display: flex;
+  margin: 0 auto;
+}
+
+input::placeholder {
+  padding-left: 4px;
+  opacity: 0.7;
+}
