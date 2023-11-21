@@ -1,6 +1,6 @@
-@import "./variables.css";
-@import "./calendar.css";
-@import "./datepicker.css";
+@import "./styles/variables.css";
+@import "./styles/calendar.css";
+@import "./styles/datepicker.css";
 
 body {
   background-color:var(--calendar-bg2);
