@@ -13,6 +13,7 @@ input {
   height: calc(var(--calendar-size) / 10);
   display: flex;
   margin: 0 auto;
+  outline: none;
 }
 
 input::placeholder {
